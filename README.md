@@ -1,12 +1,15 @@
 # 42_tweets
-# clone this project
+# Clone this project
 
-# install venv with this command
+``` console
+git clone https://github.com/reroreo1/42_tweets.git
+```
+# Install venv with this command
 
 ```console
 pip install virtualenv
 ```
-# create the venv
+# Create the venv
 ```console
 python -m venv /path/to/new/virtual/environment(.env for example)
 ```
@@ -15,11 +18,11 @@ python -m venv /path/to/new/virtual/environment(.env for example)
 source env/bin/activate
 ```
 
-# install the dependencies 
+# Install the dependencies 
 ```console
 pip install -r requirements.txt
 ```
-# run jupyter notebook and choose the file
+# Run Jupyter notebook
 ```console
 jupyter notebook
 ```
